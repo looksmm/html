@@ -1,10 +1,10 @@
-        .seo-article {
+/*         .seo-article {
             background: rgba(13, 29, 36, 0.03);
             border-radius: 16px;
             padding: 40px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
             white-space: normal seo-article!important;
-        }
+        } */
 
         .seo-header {
             margin-bottom: 40px;
@@ -402,10 +402,10 @@
                 white-space: normal !important;
             }
 
-            .seo-article {
+/*             .seo-article {
                 padding: 25px;
                 white-space: normal !important;
-            }
+            } */
 
             .seo-reels,
             .seo-testimonials,
